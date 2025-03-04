@@ -13,6 +13,6 @@ namespace Week1ObjectOriented.Classes
             area = Area;
         }
 
-        public string? Colour { get; set; }
+        public string? colour { get; set; }
     }
 }
